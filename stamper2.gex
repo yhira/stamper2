@@ -1,0 +1,14 @@
+[General]
+Name=stamper2
+Project=1
+[Classes]
+Count=9
+Class0="TMainForm","TForm","Main","10","\\Dosv2k\D\Delphi\stamper2\stamper2_011\Main.pas"
+Class1="TBaseItem","","stmItem","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\stmItem.pas"
+Class2="TCategoryItem","TBaseItem","stmItem","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\stmItem.pas"
+Class3="TFolderItem","TBaseItem","stmItem","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\stmItem.pas"
+Class4="TPasteItem","TBaseItem","stmItem","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\stmItem.pas"
+Class5="TFolderDlg","TForm","untFolder","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\untFolder.pas"
+Class6="TPasteDlg","TForm","untPaste","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\untPaste.pas"
+Class7="TCategoryDlg","TForm","untCategory","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\untCategory.pas"
+Class8="TOptionDlg","TForm","untOption","0","\\Dosv2k\D\Delphi\stamper2\stamper2_011\untOption.pas"
